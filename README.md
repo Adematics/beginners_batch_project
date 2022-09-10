@@ -1,7 +1,7 @@
 # beginners_batch_project
 
 ### Introduction
-Batch processing is one of the asked after requirements for data engineering roles and getting a data engineering project running batch processing on the cloud can be time consuming. This tutorial covers some core components of batch processing you can apply to your own projects in no time. 
+Batch processing is one of the sort after requirements for data engineering roles and getting a data engineering project running batch processing on the cloud can be time consuming. This tutorial covers some core components of batch processing you can apply to your own projects in no time. 
 
 This tutorial was made possible by [startdataengineering](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/#3-design) for those who are eager to get into the data engineering field, you can start from there.
 
